@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Kriter Software](https://www.kriter.net/)
 
-- 🌱 I’m currently learning **Multi-Platform Application development**
+- 🌱 I’m currently learning **Multi-Platform Application Development**
 
 - 📫 How to reach me **abdellahechchana@gmail.com**
 
