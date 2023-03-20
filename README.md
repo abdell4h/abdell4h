@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on [Kriter Software](https://www.kriter.net/)
+<!--- 🔭 I’m currently working on [Kriter Software](https://www.kriter.net/)-->
 
 - 🌱 I’m currently learning **Multi-Platform Application Development**
 
