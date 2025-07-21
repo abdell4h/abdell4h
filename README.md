@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on [SmartRetail](https://smartretail.eu/)
+- 🔭 I’m currently working on [Auto Cristal Ralarsa - Part of Cary Group](https://www.linkedin.com/company/auto-cristal-ralarsa)
 
 - 📫 How to reach me **abdellahechchana@gmail.com**
 
