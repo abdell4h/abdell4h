@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on [NTT DATA]([https://www.linkedin.com/company/auto-cristal-ralarsa](https://www.linkedin.com/company/ntt-data-europe-latam/posts/?feedView=all))
+- 🔭 I’m currently working on [NTT DATA]([https://www.linkedin.com/company/auto-cristal-ralarsa](https://www.linkedin.com/company/ntt-data-europe-latam/posts/?feedView=all])
 
 - 📫 How to reach me **abdellahechchana@gmail.com**
 
